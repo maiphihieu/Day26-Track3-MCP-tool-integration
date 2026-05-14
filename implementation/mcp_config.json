@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "sqlite-lab": {
+      "command": "python",
+      "args": ["mcp_server.py"],
+      "cwd": ".",
+      "timeout": 10000
+    }
+  }
+}
